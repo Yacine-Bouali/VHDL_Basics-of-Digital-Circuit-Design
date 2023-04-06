@@ -3,4 +3,5 @@ A 16-to-1 multiplexer with 8-bit input lines has 16 input lines and a 4-bit sele
 # Schematics design
 ![drawing-1](https://user-images.githubusercontent.com/50526427/230455942-c97e46d9-5fdb-4627-92ad-8ac6b2aea7f5.svg)
 # Test-Bench results
-![drawing](https://user-images.githubusercontent.com/50526427/230453404-36748599-e2bc-45bc-9a48-e67c0739a7bc.svg)
+![Capture](https://user-images.githubusercontent.com/50526427/230462753-ee9210b0-abd3-4463-9794-b7c6da82d1aa.PNG)
+
