@@ -4,7 +4,7 @@ The "VHDL_Basics of Digital Circuit Design" repository is a collection of VHDL p
 # Created by Yacine Bouali
 Contact me: 
 
-[LinkedIn](https://www.linkedin.com/in/yacine-bouali-31b3381b6/)
+[LinkedIn](https://www.linkedin.com/in/yacinebouali3538/)
 
 [FaceBook](https://web.facebook.com/yacine.bouali.3538)
 
